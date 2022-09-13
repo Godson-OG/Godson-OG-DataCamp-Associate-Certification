@@ -37,5 +37,5 @@ Here you'd be given a dataset to clean/validate, analyze and visualize your resu
 
 For a guide, you're free to use my project which is available <a href="https://github.com/Godson-OG/Godson-OG-DataCamp-Associate-Certification/blob/main/notebook.ipynb">here</a>, but don't forget to give me a shout-out and a thumbs-up. Keep Vizzing
 
-#### My Certificate
+## My Certificate
 ![alt text](https://www.dropbox.com/s/exhqtgyzep79sk7/ADA%20Certification.png?raw=1)
