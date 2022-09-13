@@ -35,5 +35,5 @@ In this segment you'd be writing 4 different sections of about 20-25 questions, 
 
 Here you'd be given a dataset to clean/validate, analyze and visualize your results. The upside is that you can use any tool like SQL and Excel, Python and so on. I personally used Python because I was very comfortable and confident using it as an analysis and visualization tool.
 
-For a guide, you're free to use my project which is available here, but don't forget to give me a shout-out and a thumbs-up. Keep Vizzing
+For a guide, you're free to use my project which is available <a href="https://github.com/Godson-OG/Godson-OG-DataCamp-Associate-Certification/blob/main/notebook.ipynb">here</a>, but don't forget to give me a shout-out and a thumbs-up. Keep Vizzing
 
